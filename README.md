@@ -6,7 +6,7 @@ I am a **Computer Engineering** student at **Sabancı University** (3rd year, 2n
 
 ## 🔗 Connection
 - 📫 Email: [basarzaim@outlook.com](basarzaim@outlook.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/basarzaim]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ba%C5%9Far-zaim-1b4863242/)  
+- 🔗 LinkedIn: [https://www.linkedin.com/basarzaim](https://www.linkedin.com/in/ba%C5%9Far-zaim-1b4863242/)  
 - 🖥️ GitHub: [github.com/basarzaim](https://github.com/basarzaim)  
 
 ## 📌 Pinned Projects  
