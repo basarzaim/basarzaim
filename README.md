@@ -2,7 +2,7 @@
 I am a **Computer Engineering** student at **Sabancı University** (3rd year, 2nd semester).
 
 🔹 I have mostly studied **Python and  C++**, but I am learning SQL and C this semester.  
-🔹 I have worked on few projects yet. You can check them on my (profile)[https://github.com/basarzaim/]!  
+🔹 I have worked on few projects yet. You can check them on my [profile](https://github.com/basarzaim/)!  
 
 ## 🔗 Connection
 - 📫 Email: [basarzaim@outlook.com](basarzaim@outlook.com)  
