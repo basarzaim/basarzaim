@@ -1,14 +1,14 @@
 # Hi there, I'm Başar Zaim! 👋  
 I am a **Computer Engineering** student at **Sabancı University** (3rd year, 2nd semester).
 
-🔹 Passionate about **Software Development, Algorithms and problem solving.**
-🔹 I have mostly studied **Python and  C++**, but I am learning SQL and C this semester.  
-🔹 I have worked on few projects yet. You can check them on my [profile](https://github.com/basarzaim/)!  
+🚀 Passionate about **Software Development, Algorithms, and Problem Solving**  
+💻 Proficient in **Python & C++**, currently exploring **SQL and C** this semester.  
+🌱 Always eager to learn and contribute to exciting projects!
 
-## 🔗 Connect with me
-- 📫 Email: [basarzaim@outlook.com](basarzaim@outlook.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/basarzaim](https://www.linkedin.com/in/ba%C5%9Far-zaim-1b4863242/)  
-- 🖥️ GitHub: [github.com/basarzaim](https://github.com/basarzaim)  
+📌 Connect with me  
+- 📧 Email: basarzaim@outlook.com  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ba%C5%9Far-zaim-1b4863242/)  
+- 🖥️ GitHub: [GitHub Profile](https://github.com/basarzaim)  
 
 ## 📌 Pinned Projects  
 - 🚀 **[Cloud File Storage Server](https://github.com/basarzaim/Cloud-File-Storage-Server)**
@@ -26,12 +26,11 @@ I am a **Computer Engineering** student at **Sabancı University** (3rd year, 2n
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
 ## 🔥 What I'm Working On  
-- 🚧 **[GitFit](https://github.com/basarzaim/gitfit)** – Flutter based fitness app (In Progress).  
-- 🏥 **[Pharmacy Inventory Database](https://github.com/basarzaim/Pharmacy-Inventory-Management-Database)** – MySQL based pharmacy inventory management (In Progress).  
-- 🤖 **Machine Learning Project** –   
+- 🚧 **[GitFit](https://github.com/basarzaim/gitfit)** – Flutter-based fitness app (In Progress).  
+- 🏥 **[Pharmacy Inventory Database](https://github.com/basarzaim/Pharmacy-Inventory-Management-Database)** – MySQL-based pharmacy inventory management (In Progress).  
+- 🤖 **Machine Learning Project** – Focused on predictive modeling & data analysis.  
 
 ## 📊 GitHub Stats  
-
 ![Başar's GitHub stats](https://github-readme-stats.vercel.app/api?username=basarzaim&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basarzaim&layout=compact&theme=radical)
 
