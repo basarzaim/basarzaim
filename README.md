@@ -1,7 +1,7 @@
 # Hi there, I'm Başar Zaim! 👋  
 I am a **Computer Engineering** student at **Sabancı University** (3rd year, 2nd semester).
 
-🔹 Passionate about **Software Development, Algorithms and problem solving.
+🔹 Passionate about **Software Development, Algorithms and problem solving.**
 🔹 I have mostly studied **Python and  C++**, but I am learning SQL and C this semester.  
 🔹 I have worked on few projects yet. You can check them on my [profile](https://github.com/basarzaim/)!  
 
